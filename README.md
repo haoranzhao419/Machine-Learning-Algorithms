@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithmsd
+# Machine-Learning-Algorithms
